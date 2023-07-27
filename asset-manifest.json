@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newmarket/static/css/main.0b89c5fe.css",
+    "main.js": "/newmarket/static/js/main.306498f3.js",
+    "index.html": "/newmarket/index.html",
+    "main.0b89c5fe.css.map": "/newmarket/static/css/main.0b89c5fe.css.map",
+    "main.306498f3.js.map": "/newmarket/static/js/main.306498f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b89c5fe.css",
+    "static/js/main.306498f3.js"
+  ]
+}
