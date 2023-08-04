@@ -1,3 +1,24 @@
+
+# E-Commerce Website with React.JS 
+
+Ürünleri görüntüleyebileceğiniz detaylı inceleyebileceğiniz Alışveriş E-Ticaret website. 
+
+Bu projemde React.JS Redux Axios teknolojilerini kullandım.
+
+# Live Demo 
+
+Projenin canlı halini görmek için: 
+ibulutx.github.io/newmarket
+
+## Proje Youtube Linki
+
+Projeyi nasıl geliştirdiğimi anlattığım youtube videom:
+
+
+[![Video Linki](https://img.youtube.com/vi/Ni6O680tKtE.jpg)](https://youtu.be/Ni6O680tKtE)
+
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
